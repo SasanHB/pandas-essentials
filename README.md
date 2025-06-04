@@ -2,7 +2,6 @@
 
 Welcome to the **Pandas Essentials Masterclass** – a complete hands-on course to teach you data analysis using Python and the powerful Pandas library 📊.
 
----
 
 ## What is Pandas?
 
@@ -19,6 +18,7 @@ It helps you:
 * 🔄 Merge and join multiple datasets
 * 🖼 Visualize data (with help from Matplotlib or Seaborn)
 
+
 ### Main components in Pandas:
 
 | Component   | Description                                         |
@@ -33,7 +33,6 @@ Pandas is widely used in:
 * Academic research
 * Real-world applications like sales tracking, survey analysis, time series forecasting, and more.
 
----
 
 ## 🎯 What You’ll Learn
 
@@ -49,13 +48,11 @@ By the end of this course, you'll be able to:
 ✅ Visualize data using matplotlib and seaborn  
 ✅ Apply your skills in real-world projects
 
----
 
 ## 🧱 Course Structure
 
 This course is divided into 4 parts, each with lessons and real projects:
 
----
 
 ### 🟢 Part 1 – Getting Started with Pandas (Beginner Level)
 
@@ -66,7 +63,6 @@ This course is divided into 4 parts, each with lessons and real projects:
 | 03 | 📂 Reading Data Files           | Reading CSV, Excel, JSON, SQL |
 | 04 | 🔎 Selecting and Filtering Data | loc, iloc, conditions, query() |
 
----
 
 ### 🟡 Part 2 – Data Cleaning and Processing (Intermediate Level)
 
@@ -77,7 +73,6 @@ This course is divided into 4 parts, each with lessons and real projects:
 | 07 | 🧮 Data Operations                   | mean(), median(), apply(), map(), sort() |
 | 08 | 🔗 Combining DataFrames             | merge(), join(), concat(), pivot |
 
----
 
 ### 🔵 Part 3 – Analysis and Visualization (Advanced Level)
 
@@ -87,7 +82,6 @@ This course is divided into 4 parts, each with lessons and real projects:
 | 10 | ⏱ Time Series Analysis             | datetime index, resample(), rolling() |
 | 11 | 📈 Data Visualization               | line, bar, hist, box, scatter, heatmaps |
 
----
 
 ### 🟣 Part 4 – Real Projects and Case Studies
 
@@ -98,7 +92,6 @@ This course is divided into 4 parts, each with lessons and real projects:
 | 03 | 📈 Time-Series Forecasting (NVIDIA Stock) | Forecast prices using ARIMA |
 | 04 | 📊 Sales Dashboard & KPIs         | Create summary dashboards from raw data |
 
----
 
 ## ⚙ Setup Instructions
 
@@ -114,7 +107,6 @@ Launch a notebook:
 jupyter notebook
 ```
 
----
 
 ## 🧪 How to Use This Course
 
@@ -126,7 +118,6 @@ Each Jupyter Notebook:
 - Uses real datasets in `/data/`  
 - Can be opened in Jupyter or VS Code  
 
----
 
 ## 📁 This repo includes:
 
@@ -134,10 +125,8 @@ Each Jupyter Notebook:
 * 📂 Real-world sales datasets (12 months)
 * ✅ Practice exercises with solutions
 
----
 
 ## 📬 Questions or Feedback?
 
 Feel free to open an issue or contact the repo owner.  
 Happy learning, and may your DataFrames be clean and insightful! 🎉
-```
